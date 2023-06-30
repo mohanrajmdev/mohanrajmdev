@@ -1,10 +1,16 @@
-### Hi there 👋
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 
+<h1 align="center">Hi 👋, I'm Mohanraj M</h1>
+<h3 align="center">Full stack developer</h3>
+<!-- <h1> Hey there! I'm Dev 👋 </h1>
+<h2> A Full Stack Developer </h2> -->
 
-## MOHANRAJ M ##
-
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="400"/>
+<h2> 👨🏻‍💻 About Me </h2>
 - 🎓 Pre Final year undergrad at [SECE][college]<br>
+- 🎓 &nbsp; Studying Computer Science and Engineering <br>
 - 🌱 Learning Never Stops 🚀<br>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -31,12 +37,20 @@
 <img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
 </div>
 
+### Block-Chain Development
+
+![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
 <h3 align="left">Languages :</h3>
 <div align="left">
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
 </div>
 
 <h3 align="left">Databases :</h3>
