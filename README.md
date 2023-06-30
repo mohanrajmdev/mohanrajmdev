@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+## MOHANRAJ M ##
+
+
+- 🎓 Pre Final year undergrad at [SECE][college]<br>
+
 <!--
 **mohanrajmdev/mohanrajmdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[college]:https://sece.ac.in/
