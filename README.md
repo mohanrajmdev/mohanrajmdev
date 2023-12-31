@@ -6,20 +6,18 @@
 <h2> A Full Stack Developer </h2> -->
 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="400"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanrajmdev&label=Views&color=blue&style=for-the-badge" alt="mohanrajmdev" /> </p>
 <h2> 👨🏻‍💻 About Me </h2>
-- 🎓 Pre Final year undergrad at SECE[college]<br>
+- 🎓 Pre Final year undergrad at SECE <br>
 - 🎓 &nbsp; Studying Computer Science and Engineering <br>
 - 🌱 Learning Never Stops 🚀<br>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br>
 
+## Connect with me : 
+[![Linkedin: mohanrajmdev](https://img.shields.io/badge/-mohanrajmdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohanraj-m-679723238)](https://www.linkedin.com/in/mohanraj-m-679723238)
+[![GitHub followers](https://img.shields.io/github/followers/mohanrajmdev?label=Follow&style=social)](https://github.com/mohanrajmdev)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mohanrajmdev.github.io/portfolio-website/)](https://mohanrajmdev.github.io/portfolio-website/)
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohanraj-m-679723238"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mohanraj.m2021cseb@sece.ac.in"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.instagram.com/mohanraj.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-</div>
 
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
@@ -68,6 +66,22 @@
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
 
+### Stats 📈
+**Github Stats:**
+
+<a href="https://github.com/mohanrajmdev">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mohanrajmdev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanrajmdev&hide_border=true&layout=compact&langs_count=5&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</a>
+
+<br />
+<br />
+
+**Leetcode Stats:**
+
+[![Leetcode Stats](https://leetcode.card.workers.dev/mohanrajmdev?theme=nord&font=baloo&extension=null&height=137&width=320)](https://leetcode.com/mohanrajmdev)
+
+> *Show some ❤️ by starring(⭐) some of the repositories 🙂 !*
+
 <!--
 **mohanrajmdev/mohanrajmdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -82,4 +96,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[college]:https://sece.ac.in/
