@@ -1,7 +1,5 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
-
 <h1 align="center">Hi 👋, I'm Mohanraj M</h1>
-<h3 align="center">Full stack developer</h3>
+<h3 align="center">Full stack developer & Security Analyst</h3>
 <!-- <h1> Hey there! I'm Dev 👋 </h1>
 <h2> A Full Stack Developer </h2> -->
 
